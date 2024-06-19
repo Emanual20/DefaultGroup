@@ -1,1 +1,1 @@
-Sitemap: https://emanual20.github.io/DefaultGroup/sitemap.xml
+Sitemap: http://defaultgroup.icu/sitemap.xml
