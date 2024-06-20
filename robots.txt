@@ -1,1 +1,1 @@
-Sitemap: http://defaultgroup.icu/sitemap.xml
+Sitemap: https://defaultgroup.icu/sitemap.xml
