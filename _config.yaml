@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: DefaultGroup
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: jiaxinmao@gmail.com
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: ETJoidYAAAAJ
+  # github: Emanual20DESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 

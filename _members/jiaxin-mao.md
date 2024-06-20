@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Jiaxin Mao
 image: images/photo.jpg
-role: phd
-group: alum
+description: Lead
+role: pi
 links:
-  github: john-doe
+  email: maojiaxin@gmail.com
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
